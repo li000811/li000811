@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chang
 - 👀 I’m interested in Shopping
 - 🌱 I’m currently learning Computer Programming
-- 💞️ I’m looking to Coop job now
+- 💞️ I’m looking for Coop job now
 - 📫 How to reach me li000811@algonquinlive.com
 
 <!---
