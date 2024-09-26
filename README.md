@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chang
+- 👋 Hi, I’m Changhong
 - 👀 I’m interested in Shopping
-- 🌱 I’m currently learning Computer Programming
-- 💞️ I’m working as a COBOL developer for Government now.
+- 🌱 I’m a Programmer
+- 💞️ I have work experience in mainframe as a COBOL developer & analyst for Canada Revenue Agency.
 - 📫 How to reach me li000811@algonquinlive.com
 
 <!---
